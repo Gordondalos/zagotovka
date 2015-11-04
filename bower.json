@@ -21,12 +21,13 @@
   ],
   "dependencies": {
     "html5shiv": "~3.7.3",
-    "jquery": "~2.1.4"
+    "jquery": "~2.1.4",
+    "animate.css": "*"
   },
   "devDependencies": {
     "bootstrap-sass": "~3.3.5",
     "normalize.sass": "~3.0.0",
-    "animate.sass": "*",
+
     "font-awesome": "fontawesome#~4.4.0"
   }
 }
