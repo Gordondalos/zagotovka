@@ -1,0 +1,32 @@
+{
+  "name": "zagotovka",
+  "description": "my start file",
+  "main": "gulpfile.js",
+  "authors": [
+    "gordondalos"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "start",
+    "project"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "normalize.sass": "~3.0.0",
+    "font-awesome": "fontawesome#~4.4.0",
+    "bourbon": "~4.2.6",
+    "neat": "~1.7.2"
+  }
+}

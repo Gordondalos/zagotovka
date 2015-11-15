@@ -12,7 +12,9 @@
   ],
   "author": "gordondalos",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
   "devDependencies": {
     "browser-sync": "^2.2.3",
     "gulp": "^3.8.11",
