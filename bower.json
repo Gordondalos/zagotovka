@@ -1,0 +1,32 @@
+{
+  "name": "zagotovka",
+  "description": "my start file",
+  "main": "gulpfile.js",
+  "authors": [
+    "gordondalos"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "start",
+    "project"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "normalize-strings": "normalize#~1.0.4",
+    "html5shiv": "~3.7.3",
+    "lt-ie-9": "~0.1.0",
+    "modernizr-shiv": "~0.0.2",
+    "animate.css": "~3.5.0"
+  }
+}
