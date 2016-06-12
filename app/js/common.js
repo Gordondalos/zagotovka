@@ -1,3 +1,11 @@
-/**
- * Created by Gordondalos on 06.06.2016.
- */
+var Todos = Vue.extend({
+    name: 'todos'
+});
+
+var vm = new Todos({
+    el: '#todos', // Это инициализация
+    ready: function () {
+        console.log('Мы стартовали');
+    }
+
+});
